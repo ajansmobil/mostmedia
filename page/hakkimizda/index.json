@@ -1,0 +1,31 @@
+{
+  "name": {
+    "tr": "Hakkımızda"
+  },
+  "status": "play",
+  "id": "hakkimizda",
+  "path": "hakkimizda",
+  "category": "kurumsal",
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Hakkımızda</h2>\n    <p style=\"font-size: 16px;\">\n        Most Media olarak 2023 yılından bu yana fuar hizmetleri ve asansör reklamcılığı alanlarında profesyonel çözümler sunuyoruz. İki ana hizmet alanımızda uzmanlaşarak, müşterilerimize komple ve entegre çözümler sağlıyoruz. Fuar hizmetlerinde hostes, catering ve stand tasarımından kuruluma kadar 360 derece destek verirken, asansör reklamlarında ise AVM, ofis binaları ve rezidans alanlarında hedef kitle odaklı stratejik yerleşim hizmetleri sunuyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Deneyimli ve profesyonel kadromuzla her projede en yüksek kalite standartlarını koruyoruz. Hostes hizmetlerimizde güler yüzlü, iletişimi güçlü ve marka değerlerinizi en iyi şekilde temsil edecek personel; catering hizmetlerimizde lezzetli ve özenle hazırlanmış ikramlar; stand tasarımlarımızda ise marka kimliğinizi yansıtan yaratıcı ve çekici tasarımlar sunuyoruz. Asansör reklamlarında ise yüksek görünürlük, hedef kitle odaklı konumlandırma ve maliyet etkin çözümlerle markanızı binlerce kişiye ulaştırıyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Müşteri memnuniyetini her zaman önceliğimiz olarak görmekte ve her projede maksimum verim sağlamak için çalışmaktayız. Sektördeki gelişmeleri yakından takip ediyor, yenilikçi çözümler geliştiriyoruz. Dijital ekranlar, interaktif deneyimler ve performans ölçüm raporlarıyla hizmetlerimizi sürekli geliştirerek, müşterilerimize katma değer yaratıyoruz. Most Media ile çalışarak, güvenilir ve profesyonel bir iş ortağı kazanıyorsunuz.\n    </p>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 0,
+  "icon": "home",
+  "description": {
+    "tr": ""
+  },
+  "keyword": {
+    "tr": ""
+  },
+  "spot": {
+    "tr": ""
+  },
+  "update": "2025-10-10T05:35:46.294Z",
+  "date": "2025-10-10T05:35:43.543Z"
+}

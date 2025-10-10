@@ -1,0 +1,29 @@
+{
+  "order": true,
+  "user": true,
+  "description": {
+    "tr": "Most Media - Fuar hizmetleri ve asansör reklamlarında profesyonel çözümler. Hostes, catering, stand tasarımı ve asansör içi reklam panelleri ile markanızı güçlendirin."
+  },
+  "keyword": {
+    "tr": "Most Media, fuar hizmetleri, asansör reklamları, hostes hizmetleri, catering, stand tasarımı, fuar organizasyonu, asansör içi reklam, reklam paneli"
+  },
+  "category": "Kurumsal",
+  "name": "Most Media",
+  "domain": "mostmedia.com.tr",
+  "langs": {
+    "tr": true,
+    "en": false,
+    "ar": false,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo2.svg",
+  "multi": false
+}

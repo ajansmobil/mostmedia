@@ -1,0 +1,31 @@
+{
+  "name": {
+    "tr": "Vizyon"
+  },
+  "status": "play",
+  "id": "vizyon",
+  "path": "vizyon",
+  "category": "kurumsal",
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Vizyonumuz</h2>\n    <p style=\"font-size: 16px;\">\n        Türkiye'nin en güvenilir ve tercih edilen reklam ve etkinlik partneri olmak. Fuar hizmetleri ve asansör reklamcılığı alanlarında sektöre yön veren, yenilikçi çözümler geliştiren ve müşteri memnuniyetinde standart belirleyen bir marka olmayı hedefliyoruz.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Sürekli gelişim ve yenilikçi yaklaşımlarımızla sektöre değer katmaya, dijital dönüşüm ve teknoloji entegrasyonuyla hizmet kalitemizi artırmaya devam edeceğiz. Her projede mükemmelliği hedefleyerek, müşterilerimizin güvenini kazanan ve uzun vadeli iş ortaklıkları kuran, sektörün öncü firması olmak vizyonumuzdur.\n    </p>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 2,
+  "icon": "home",
+  "description": {
+    "tr": ""
+  },
+  "keyword": {
+    "tr": ""
+  },
+  "spot": {
+    "tr": ""
+  },
+  "update": "2025-10-10T05:35:46.299Z",
+  "date": "2025-10-10T05:35:43.550Z"
+}

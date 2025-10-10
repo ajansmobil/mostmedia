@@ -1,0 +1,357 @@
+{
+  "data": [
+    {
+      "index": 0,
+      "name": "Menü ",
+      "path": "menu-4",
+      "local": "header",
+      "category": "menu",
+      "desing": {
+        "logo": "logo2.svg",
+        "color": "#62b8c7",
+        "height": "100px",
+        "background-color": "#e9e9e9"
+      },
+      "id": "rytq73",
+      "description": "Light gri background navigasyon menüsü. Logo, sayfa linkleri ve 100px yükseklikte modern header tasarımı sunar. 6 farklı projede kullanılır: mobil ajans, üretim, sağlık, medya, inşaat ve profesyonel hizmet firmalarında. Sticky header, hover efektleri ve responsive mobil menü geçişi içerir.",
+      "version": "1.0.0",
+      "icon": "menu"
+    },
+    {
+      "index": 1,
+      "name": "Footer 1",
+      "path": "footer-1",
+      "local": "footer",
+      "category": "footer",
+      "desing": {
+        "bgcolor": "#62b8c7",
+        "color": "#000",
+        "img": "",
+        "imgwidth": "250px"
+      },
+      "data": [],
+      "id": "c2lkg1",
+      "description": "Evrensel alt bilgi (footer) bölüm modülü. Firma logosu, telif hakları metni, iletişim bilgileri ve sosyal medya ikonlarını responsive tasarımda sunar. 41 farklı projede kullanılır: tüm sektörlerden kurumsal, e-ticaret, restoran, sağlık, ajans, hizmet firmalarında. Tüm sayfa türlerinde standart footer yapısı sağlar.",
+      "version": "1.0.0",
+      "icon": "web_asset"
+    },
+    {
+      "index": 2,
+      "name": "Slider",
+      "path": "slider",
+      "local": "header",
+      "category": "slider",
+      "desing": {
+        "delay": 3000
+      },
+      "data": [
+        {
+          "img": "asansör banner.jpg"
+        },
+        {
+          "img": "fuar banner.jpg"
+        }
+      ],
+      "id": "gtif4z",
+      "description": "Ana sayfa hero slider modülü. Otomatik geçiş animasyonlu görsel slider sunar. 31 farklı projede kullanılır: kurumsal şirketler, e-ticaret siteleri, restoranlar, sağlık kuruluşları, üretim firmaları ve ajanslar. Swiper.js ile touch gesture desteği ve özelleştirilebilir geçiş süresi içerir.",
+      "version": "1.0.0",
+      "icon": "view_carousel"
+    },
+    {
+      "index": 3,
+      "name": "Sayfa Listesi Column",
+      "path": "page-column",
+      "local": "body",
+      "category": "page list",
+      "desing": {
+        "page": "products",
+        "bgcolor": "#1e3046",
+        "color": "#fff",
+        "height": "200px",
+        "font-size": "18px",
+        "opacity": "0.5",
+        "chilebgcolor": "#000",
+        "chilecolor": "#fff",
+        "chilesize": "16px"
+      },
+      "id": "jpqttr",
+      "description": "Arka plan görselli sütun layout modülü. Ana kategori ve alt kategorileri dikey sütun düzeninde gösterir. 5 farklı projede kullanılır: sağlık, kargo, ambalaj, medya ve restoran sektörlerinde. Overlay opacity ayarı, ana başlık ve alt metin farklı renklendirme, responsive column yapısı içerir.",
+      "version": "1.0.0",
+      "icon": "view_column"
+    },
+    {
+      "index": 4,
+      "name": "Tanıtım Modülü",
+      "path": "module-1",
+      "local": "body",
+      "category": "module",
+      "desing": {
+        "name": {
+          "tr": "Most Media'yı Tanıyın"
+        },
+        "spot": {
+          "tr": "2023 yılından bu yana fuar hizmetleri ve asansör reklamcılığı alanlarında profesyonel çözümler sunuyoruz. Hostes, catering ve stand tasarımı ile komple fuar yönetimi; AVM, ofis ve rezidans alanlarında stratejik asansör reklamlarıyla markanızı hedef kitlenize ulaştırıyoruz. Deneyimli ekibimiz ve yenilikçi yaklaşımımızla her projede fark yaratıyoruz."
+        },
+        "name2": {
+          "tr": "Vizyonumuz"
+        },
+        "spot2": {
+          "tr": "Türkiye'nin en güvenilir ve tercih edilen reklam ve etkinlik partneri olmak."
+        },
+        "icon2": "verified",
+        "name3": {
+          "tr": "Misyonumuz"
+        },
+        "spot3": {
+          "tr": "Fuar ve asansör reklamlarında öncü olarak marka değerlerini güçlendirmek."
+        },
+        "icon3": "target",
+        "img": "logo.webp",
+        "bgcolor": "#62b8c7",
+        "fontcolor": "#000",
+        "margintop": "20",
+        "marginbotton": "20"
+      },
+      "id": "k82tzv",
+      "description": "Kurumsal tanıtım ve hakkımızda modülü. Firma tanıtımı, vizyon, misyon metinlerini görsel ile birlikte sunar. 15 farklı projede kullanılır: lojistik, üretim, sağlık, kurumsal, restoran, ajans ve inşaat sektörlerinde. İki kolonlu responsive tasarım ve icon desteği içerir.",
+      "version": "1.0.0",
+      "icon": "business"
+    },
+    {
+      "index": 5,
+      "name": "Page Desing 5",
+      "path": "page-desing-5",
+      "local": "body",
+      "category": "page",
+      "id": "coq0w6",
+      "desing": {
+        "height": "80",
+        "opacity": "0.5",
+        "font-size": "32",
+        "backgroundcolor": "#62b8c7",
+        "menu-active": "#000"
+      },
+      "description": "Kompakt sayfa başlık ve hero banner modülü. Küçük font boyutu ile modern minimalist tasarım sunar. 7 farklı projede kullanılır: ajans, mobil uygulamalar, kargo, kurumsal, ambalaj, inşaat ve sağlık sektörlerinde. Kurumsal sayfalara özel kategori sistemi, aktif menü renklendirme ve responsive header yapısı içerir.",
+      "version": "1.0.0",
+      "icon": "web"
+    },
+    {
+      "name": "İletişim",
+      "path": "contact-3",
+      "local": "body",
+      "category": "contact",
+      "proje": [
+        {
+          "proje": "agsmakina",
+          "index": [
+            6
+          ]
+        },
+        {
+          "proje": "ajansmobil",
+          "index": [
+            2
+          ]
+        },
+        {
+          "proje": "akanpark",
+          "index": [
+            1
+          ]
+        },
+        {
+          "proje": "alabo",
+          "index": [
+            8
+          ]
+        },
+        {
+          "proje": "alinpistachio",
+          "index": [
+            6
+          ]
+        },
+        {
+          "proje": "ardickuyumculuk",
+          "index": [
+            3,
+            9
+          ]
+        },
+        {
+          "proje": "atabaskifabrikasi",
+          "index": [
+            4
+          ]
+        },
+        {
+          "proje": "ataklife",
+          "index": [
+            3
+          ]
+        },
+        {
+          "proje": "atlantisradyoloji",
+          "index": [
+            5
+          ]
+        },
+        {
+          "proje": "eticaret",
+          "index": [
+            4
+          ]
+        },
+        {
+          "proje": "familycompany",
+          "index": [
+            10
+          ]
+        },
+        {
+          "proje": "gazikoleji",
+          "index": [
+            4
+          ]
+        },
+        {
+          "proje": "gevezeajans",
+          "index": [
+            3
+          ]
+        },
+        {
+          "proje": "kalorihaziryemek",
+          "index": [
+            6
+          ]
+        },
+        {
+          "proje": "makbas",
+          "index": [
+            6
+          ]
+        },
+        {
+          "proje": "mepambalaj",
+          "index": [
+            3
+          ]
+        },
+        {
+          "proje": "mesutdoganvinc",
+          "index": [
+            3
+          ]
+        },
+        {
+          "proje": "okyaylar",
+          "index": [
+            4
+          ]
+        },
+        {
+          "proje": "reklamatolyesi",
+          "index": [
+            4
+          ]
+        },
+        {
+          "proje": "sadcompany",
+          "index": [
+            4
+          ]
+        },
+        {
+          "proje": "saib",
+          "index": [
+            7
+          ]
+        },
+        {
+          "proje": "sedacicek",
+          "index": [
+            3
+          ]
+        },
+        {
+          "proje": "servisyetkilim",
+          "index": [
+            2
+          ]
+        },
+        {
+          "proje": "soydanaksoy",
+          "index": [
+            11
+          ]
+        },
+        {
+          "proje": "tadimlokantasi",
+          "index": [
+            2
+          ]
+        },
+        {
+          "proje": "tiggergift",
+          "index": [
+            8
+          ]
+        },
+        {
+          "proje": "veradio",
+          "index": [
+            3
+          ]
+        }
+      ],
+      "id": "eaa5u5",
+      "desing": {
+        "color": "#1e3046",
+        "name": {
+          "tr": "Bize Ulaşın"
+        },
+        "margin": "30px 0px 30px 0px"
+      },
+      "data": [
+        {
+          "icon": "phone",
+          "text": "0554 375 74 91",
+          "url": "tel:05543757491"
+        },
+        {
+          "icon": "email",
+          "text": "manken@gmail.com"
+        },
+        {
+          "icon": "map",
+          "text": "Merve Şehir mahallesi 49.017 nolu sokak no 5 ulubatlı Hasan apartmanı kat 4 daire 20 Şehitkamil / Gaziantep"
+        }
+      ],
+      "description": "İletişim bilgileri görüntüleme modülü. Telefon, email ve adres bilgilerini icon ile şık tasarımda sunar. 26 farklı projede kullanılır: kurumsal şirketler, restoranlar, e-ticaret siteleri, sağlık kuruluşları ve hizmet sektöründe. Responsive kart düzeni ve tıklanabilir telefon/email linkleri içerir.",
+      "version": "1.0.0",
+      "icon": "contact_mail",
+      "index": 6
+    },
+    {
+      "index": 7,
+      "name": "Page Desing Text",
+      "path": "page-desing-text",
+      "local": "body",
+      "category": "page",
+      "proje": [],
+      "id": "jmv31x",
+      "desing": {
+        "height": "80",
+        "opacity": "0.5",
+        "font-size": "32",
+        "backgroundcolor": "#62b8c7",
+        "menu-active": "#000",
+        "category": "kurumsal"
+      },
+      "description": "",
+      "version": "1.0.0",
+      "icon": "web"
+    }
+  ]
+}

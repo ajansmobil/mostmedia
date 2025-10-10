@@ -1,0 +1,31 @@
+{
+  "name": {
+    "tr": "Misyon"
+  },
+  "status": "play",
+  "id": "misyon",
+  "path": "misyon",
+  "category": "kurumsal",
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Misyonumuz</h2>\n    <p style=\"font-size: 16px;\">\n        Fuar hizmetleri ve asansör reklamlarında öncü olmak, müşterilerimize en kaliteli hizmeti sunarak marka değerlerini güçlendirmek ve sektörde fark yaratmaktır. Her projede profesyonellik, güvenilirlik ve yenilikçilik ilkelerimizle hareket ederek, müşterilerimizin başarısına katkı sağlamak temel misyonumuzdur.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Hostes, catering ve stand hizmetlerinde komple çözümler sunarak fuarları müşterilerimiz için başarı hikayesine dönüştürmek; asansör reklamlarında stratejik konumlandırma ve yüksek görünürlükle markaları hedef kitlelerine ulaştırmak için sürekli gelişim ve iyileştirme odaklı çalışıyoruz.\n    </p>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 1,
+  "icon": "home",
+  "description": {
+    "tr": ""
+  },
+  "keyword": {
+    "tr": ""
+  },
+  "spot": {
+    "tr": ""
+  },
+  "update": "2025-10-10T05:35:46.296Z",
+  "date": "2025-10-10T05:35:43.546Z"
+}

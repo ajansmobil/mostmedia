@@ -1,0 +1,124 @@
+{
+  "name": "Sayfalar",
+  "path": "page",
+  "desc": [],
+  "data": [
+    {
+      "name": {
+        "tr": "Kurumsal"
+      },
+      "status": "play",
+      "category": "",
+      "id": "swrvgwkplw",
+      "url": "",
+      "path": "kurumsal",
+      "index": 0,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "hakkimizda",
+      "description": {
+        "tr": "Most Media - 2023'ten beri fuar hizmetleri ve asansör reklamlarında profesyonel çözümler sunuyoruz. Güvenilir, deneyimli ve yenilikçi yaklaşımla yanınızdayız."
+      },
+      "spot": {
+        "tr": "2023'ten beri fuar hizmetleri ve asansör reklamlarında profesyonel çözümler sunan Most Media, güvenilir ve yenilikçi yaklaşımıyla yanınızda."
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Asansör Reklamları"
+      },
+      "status": "play",
+      "category": "",
+      "id": "nzfrkni3oc",
+      "url": "",
+      "path": "asansor-reklamlari",
+      "index": 1,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "jmv31x"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Asansör içi reklam panelleri ile hedef kitlenize doğrudan ulaşın. AVM, ofis ve rezidans alanlarında yüksek görünürlük ve maliyet etkinliği ile markanızı öne çıkarın."
+      },
+      "spot": {
+        "tr": "Asansör içi reklamlarla günde binlerce kişiye ulaşın. Yüksek görünürlük, hedef kitle odaklı stratejik konumlar ve uygun fiyatlarla markanızı öne çıkarın."
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Fuar Hizmetleri"
+      },
+      "status": "play",
+      "category": "",
+      "id": "a3umrc8l4t",
+      "url": "",
+      "path": "fuar-hizmetleri",
+      "index": 2,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "jmv31x"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Profesyonel fuar hizmetleri ile standınızı öne çıkarın. Hostes, catering ve stand tasarım hizmetleriyle komple fuar yönetimi. Deneyimli ekip, kaliteli hizmet."
+      },
+      "spot": {
+        "tr": "Hostes, catering ve stand tasarımı ile komple fuar çözümleri. Profesyonel ekibimizle fuarlarınızda fark yaratın ve markanızı öne çıkarın."
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "İletişim"
+      },
+      "status": "play",
+      "category": "",
+      "id": "j8hhrog5ee",
+      "url": "",
+      "path": "iletisim",
+      "index": 3,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "eaa5u5"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Most Media ile iletişime geçin. Fuar hizmetleri ve asansör reklamları için profesyonel destek ve danışmanlık. Telefon, email veya adresimizden bize ulaşabilirsiniz."
+      },
+      "spot": {
+        "tr": "Sorularınız için bizimle iletişime geçin. Telefon, email veya ofis adresimizden bize ulaşabilirsiniz. Profesyonel ekibimiz yanınızda."
+      },
+      "desc": {}
+    }
+  ],
+  "index": 0,
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "modulestatus": {
+    "page": true,
+    "bgimg": true,
+    "detail": true,
+    "body": true
+  }
+}
