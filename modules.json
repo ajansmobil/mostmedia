@@ -136,6 +136,7 @@
       "icon": "web"
     },
     {
+      "index": 6,
       "name": "İletişim",
       "path": "contact-3",
       "local": "body",
@@ -321,7 +322,7 @@
         },
         {
           "icon": "email",
-          "text": "manken@gmail.com"
+          "text": "info@mostmedia.com.tr"
         },
         {
           "icon": "map",
@@ -330,8 +331,7 @@
       ],
       "description": "İletişim bilgileri görüntüleme modülü. Telefon, email ve adres bilgilerini icon ile şık tasarımda sunar. 26 farklı projede kullanılır: kurumsal şirketler, restoranlar, e-ticaret siteleri, sağlık kuruluşları ve hizmet sektöründe. Responsive kart düzeni ve tıklanabilir telefon/email linkleri içerir.",
       "version": "1.0.0",
-      "icon": "contact_mail",
-      "index": 6
+      "icon": "contact_mail"
     },
     {
       "index": 7,
