@@ -1,194 +1,50 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="tr">
-
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta http-equiv="Page-Exit" content="BlendTrans(Duration"="0)" />
-  <meta http-equiv="Page-Enter" content="BlendTrans(Duration"="0)" />
-  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
-  <meta http-equiv="Cache-Control" content="max-age=3600, public" />
-  <meta http-equiv="Pragma" content="cache" />
-  <meta http-equiv="Expires" content="3600" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Most Media</title>
   <meta name="description" content="Most Media - Fuar hizmetleri ve asansör reklamlarında profesyonel çözümler. Hostes, catering, stand tasarımı ve asansör içi reklam panelleri ile markanızı güçlendirin." />
-  <meta name="keywords" content="Most Media, fuar hizmetleri, asansör reklamları, hostes hizmetleri, catering, stand tasarımı, fuar organizasyonu, asansör içi reklam, reklam paneli" />
-  <meta property="og:title" content="Most Media" />
-  <meta property="og:description" content="Most Media - Fuar hizmetleri ve asansör reklamlarında profesyonel çözümler. Hostes, catering, stand tasarımı ve asansör içi reklam panelleri ile markanızı güçlendirin." />
-  <meta property="og:image" content="https://mostmedia.com.tr/img/icon.png" />
-  <meta name="robots" content="index, follow" />
-  <link rel="stylesheet" href="/src/css.css?v=y1rzx" />
-  <link rel="shortcut icon" href="/img/icon.png?v=y1rzx" type="image/png" />
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap"
-    rel="stylesheet" />
-
-  <link rel="stylesheet" href="/src/swiper-bundle.min.css" />
-  <script src="/src/swiper-bundle.min.js"></script>
-  
-
-  <script type="text/javascript" src="/src/firebase.js?v=y1rzx"></script>
-<link rel="stylesheet" href="style.css?v=y1rzx">
-</head>
-
-<body>
-  <div id="header"><div class="cyinm">
-  <div class="cyinmtitle">
-    <div class="cyinmtitlebody">
-      <div class="cyinmtitlebodytitle">
-        Most Media Web Sitemize Hoşgeldiniz
-      </div>
-      <div class="cyinmtitlebodylang">
-        <ul>
-          <li><a href="/tr/"><img height="25" src="/src/lang/tr.png"  alt="tr"></a></li>
-        </ul>
-      </div>
-    </div>
-  </div>
-  <div class="cyinmChildren">
-    <div class="cyinmbody">
-      <a href="/tr/"><img src="/img/logo2.svg?v=y1rzx" class="cyinmbodylogo" alt="Most Media Logo" /></a>
-    </div>
-    <div class="cyinmmenumobil">
-      <div class="material-symbols-outlined">menu</div>
-    </div>
-    <div class="cyinmmenulist">
-      <ul>
-        <a href="/tr/" class="cyinmmenuitem">Anasayfa </a><a href="/tr/hakkimizda/" class="cyinmmenuitem">Kurumsal</a><a href="/tr/asansor-reklamlari/" class="cyinmmenuitem">Asansör Reklamları</a><a href="/tr/fuar-hizmetleri/" class="cyinmmenuitem">Fuar Hizmetleri</a><a href="/tr/iletisim/" class="cyinmmenuitem">İletişim</a>
-      </ul>
-    </div>
-  </div>
-</div>
-
-<script>
-  document
-    .querySelector(".cyinmmenumobil")
-    .addEventListener("click", function () {
-      const menu = document.querySelector(".cyinmmenulist");
-      if (menu.style.display === "flex") {
-        menu.style.display = "none";
-      } else {
-        menu.style.display = "flex";
-      }
+  <link rel="canonical" href="https://mostmedia.com.tr/" />
+  <link rel="alternate" hreflang="tr" href="https://mostmedia.com.tr/tr/" />
+  <link rel="alternate" hreflang="x-default" href="https://mostmedia.com.tr/tr/" />
+  <script>
+(function() {
+  var available = ["tr"];
+  var fallbackLang = "tr";
+  var defaultLang = "tr";
+  var settingDefaultLang = "";
+  if (settingDefaultLang && available.indexOf(settingDefaultLang) !== -1) {
+    location.replace('/' + settingDefaultLang + '/' + (location.search || '') + (location.hash || ''));
+    return;
+  }
+  var browserLangs = [];
+  if (navigator.languages && navigator.languages.length) {
+    navigator.languages.forEach(function(l) {
+      var code = (l.split('-')[0] || '').toLowerCase();
+      if (code && browserLangs.indexOf(code) === -1) browserLangs.push(code);
     });
-</script>
-<div class="swiper-container tu2ie">
-  <div class="swiper-wrapper" id="tu2ie"><div class="swiper-slide"><img src="/img/gtif4z/asansör banner.jpg" /></div><div class="swiper-slide"><img src="/img/gtif4z/fuar banner.jpg" /></div></div>
-  <div class="swiper-button-next"></div>
-  <div class="swiper-button-prev"></div>
-  <div class="swiper-pagination"></div>
-</div>
-
-<script>
-
-setTimeout(() => {
-  var swiper = new Swiper(".tu2ie", {
-    slidesPerView: 1,
-    spaceBetween: 30,
-    loop: true,
-    autoplay: {
-      delay: "3000",
-      disableOnInteraction: false,
-    },
-    pagination: {
-      el: ".swiper-pagination",
-      clickable: true,
-    },
-    navigation: {
-      nextEl: ".swiper-button-next",
-      prevEl: ".swiper-button-prev",
-    },
-  });}, 500);
-</script>
-</div>
-  <div id="content"><div class="g5bue">
-  <div class="g5buebody"></div>
-</div>
-
-<div class="slhh5-out">
-  <div class="slhh5">
-    <div class="slhh5-left">
-      <img
-        src="/img/k82tzv/logo.webp?v=y1rzx"
-        class="slhh5-left-img"
-        alt="{{title}}"
-      />
-    </div>
-    <div class="slhh5-right">
-      <div class="slhh5-right-body">
-        <div class="slhh5-right-body-name">Most Media'yı Tanıyın</div>
-        <div class="slhh5-right-body-spot">2023 yılından bu yana fuar hizmetleri ve asansör reklamcılığı alanlarında profesyonel çözümler sunuyoruz. Hostes, catering ve stand tasarımı ile komple fuar yönetimi; AVM, ofis ve rezidans alanlarında stratejik asansör reklamlarıyla markanızı hedef kitlenize ulaştırıyoruz. Deneyimli ekibimiz ve yenilikçi yaklaşımımızla her projede fark yaratıyoruz.</div>
-        <div class="slhh5-right-body-chile">
-          <div class="slhh5-right-body-chile-row">
-            <div class="slhh5-right-body-chile-row-name">Vizyonumuz</div>
-            <div class="slhh5-right-body-chile-row-spot">Türkiye'nin en güvenilir ve tercih edilen reklam ve etkinlik partneri olmak.</div>
-          </div>
-          <div class="slhh5-right-body-chile-row">
-            <div class="slhh5-right-body-chile-row-name">Misyonumuz</div>
-            <div class="slhh5-right-body-chile-row-spot">Fuar ve asansör reklamlarında öncü olarak marka değerlerini güçlendirmek.</div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-</div>
-  <div id="footer"><footer class="footer">
-  <div class="waves">
-    <div class="wave" id="wave1"></div>
-    <div class="wave" id="wave2"></div>
-    <div class="wave" id="wave3"></div>
-    <div class="wave" id="wave4"></div>
-  </div>
-  <ul class="social-icon">
-
-
-
-    
-    
-
- 
-
-
-    <li class="social-icon__item">
-      <a class="social-icon__link" href="#">
-        <ion-icon name="logo-facebook"></ion-icon>
-      </a>
-    </li>
-    <li class="social-icon__item">
-      <a class="social-icon__link" href="#">
-        <ion-icon name="logo-x"></ion-icon>
-      </a>
-    </li>
-    <li class="social-icon__item">
-      <a class="social-icon__link" href="#">
-        <ion-icon name="logo-linkedin"></ion-icon>
-      </a>
-    </li>
-    <li class="social-icon__item">
-      <a class="social-icon__link" href="#">
-        <ion-icon name="logo-instagram"></ion-icon>
-      </a>
-    </li>
-  </ul>
-  <ul class="menu">
-    <li class="menu__item"><a class="menu__link" href="/tr">Anasayfa</a></li><li class="menu__item"><a class="menu__link" href="/tr/kurumsal">Kurumsal</a></li><li class="menu__item"><a class="menu__link" href="/tr/asansor-reklamlari">Asansör Reklamları</a></li><li class="menu__item"><a class="menu__link" href="/tr/fuar-hizmetleri">Fuar Hizmetleri</a></li><li class="menu__item"><a class="menu__link" href="/tr/iletisim">İletişim</a></li>
-  </ul>
-  <p>Most Media 2025 cognite. &copy;</p>
-</footer>
-
-</div>
+  }
+  if (!browserLangs.length && navigator.language) {
+    browserLangs.push((navigator.language.split('-')[0] || defaultLang).toLowerCase());
+  }
+  var chosen = null;
+  for (var i = 0; i < browserLangs.length; i++) {
+    if (available.indexOf(browserLangs[i]) !== -1) {
+      chosen = browserLangs[i];
+      break;
+    }
+  }
+  if (chosen === null) {
+    chosen = fallbackLang;
+  }
+  var target = '/' + chosen + '/' + (location.search || '') + (location.hash || '');
+  location.replace(target);
+})();
+  </script>
+</head>
+<body>
+  <p>Most Media</p>
+  <noscript><p>Dil seçin: <a href="/tr/">TR</a></p></noscript>
 </body>
-
-<link rel="stylesheet"
-  href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
-
-
-
-<script type="text/javascript" src="/src/js.js?v=y1rzx"></script>
-<script src="/src/cookie.js?v=y1rzx"></script>
-
 </html>

@@ -62,7 +62,7 @@
       "name": "Sayfa Listesi Column",
       "path": "page-column",
       "local": "body",
-      "category": "page list",
+      "category": "page-list",
       "desing": {
         "page": "products",
         "bgcolor": "#1e3046",

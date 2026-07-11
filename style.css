@@ -225,7 +225,7 @@
     object-fit: cover;
   }
 
-  /* Safari özel düzeltme */
+  
   @media not all and (min-resolution:.001dpcm) {
     @supports (-webkit-appearance:none) {
       .swiper-slide>img {
