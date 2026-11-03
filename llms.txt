@@ -1,0 +1,25 @@
+# Most Media
+
+> Most Media - Fuar hizmetleri ve asansör reklamlarında profesyonel çözümler. Hostes, catering, stand tasarımı ve asansör içi reklam panelleri ile markanızı güçlendirin.
+
+Web: https://mostmedia.com.tr/tr/
+
+## Sayfalar
+- [Most Media](https://mostmedia.com.tr/tr/): Most Media - Fuar hizmetleri ve asansör reklamlarında profesyonel çözümler.
+- [Kurumsal](https://mostmedia.com.tr/tr/hakkimizda/): Most Media - 2023'ten beri fuar hizmetleri ve asansör reklamlarında profesyonel çözümler sunuyoruz.
+- [Asansör Reklamları](https://mostmedia.com.tr/tr/asansor-reklamlari/): Asansör içi reklam panelleri ile hedef kitlenize doğrudan ulaşın.
+- [Fuar Hizmetleri](https://mostmedia.com.tr/tr/fuar-hizmetleri/): Profesyonel fuar hizmetleri ile standınızı öne çıkarın.
+- [İletişim](https://mostmedia.com.tr/tr/iletisim/): Most Media ile iletişime geçin.
+- [Hakkımızda](https://mostmedia.com.tr/tr/hakkimizda/)
+- [Misyon](https://mostmedia.com.tr/tr/misyon/)
+- [Vizyon](https://mostmedia.com.tr/tr/vizyon/)
+- [Kalite Politikamız](https://mostmedia.com.tr/tr/kalite-politikamiz/)
+- [Gizlilik Politikası](https://mostmedia.com.tr/tr/gizlilik-politikasi/)
+- [Kişisel Veriler](https://mostmedia.com.tr/tr/kisisel-veriler/)
+- [Kullanıcı Hakları](https://mostmedia.com.tr/tr/kullanici-haklari/)
+- [Yasal Uyarı](https://mostmedia.com.tr/tr/yasal-uyari/)
+- [Çerez Politikası](https://mostmedia.com.tr/tr/cerez-politikasi/): Bu politika, Most Media tarafından işletilen mostmedia.com.tr internet sitesinde kullanılan çerezleri, bunların hangi amaçlarla kullanıldığını ve…
+
+## Diger
+- [sitemap.xml](https://mostmedia.com.tr/sitemap.xml): tum URL listesi
+- [llms-full.txt](https://mostmedia.com.tr/llms-full.txt): sayfa govdeleri duz metin

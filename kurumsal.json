@@ -186,6 +186,27 @@
         "tr": ""
       },
       "desc": {}
+    },
+    {
+      "id": "cerez-politikasi",
+      "name": {
+        "tr": "Çerez Politikası"
+      },
+      "description": {
+        "tr": "Bu politika, Most Media tarafından işletilen mostmedia.com.tr internet sitesinde kullanılan çerezleri, bunların hangi amaçlarla kullanıldığını ve…"
+      },
+      "path": "cerez-politikasi",
+      "icon": "cookie",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "7fi5oe"
+        ],
+        "footer": []
+      },
+      "index": 8
     }
   ],
   "index": 2,

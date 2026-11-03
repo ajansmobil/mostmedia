@@ -49,6 +49,11 @@
           "coq0w6"
         ],
         "footer": []
+      },
+      "modulestatus": {
+        "page": true,
+        "body": true,
+        "detail": true
       }
     }
   ]

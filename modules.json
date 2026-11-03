@@ -10,7 +10,10 @@
         "logo": "logo2.svg",
         "color": "#62b8c7",
         "height": "100px",
-        "background-color": "#e9e9e9"
+        "background-color": "#e9e9e9",
+        "menubg": "",
+        "menutext": "#fff",
+        "menuhoverbg": "rgba(255,255,255,.18)"
       },
       "id": "rytq73",
       "description": "Light gri background navigasyon menüsü. Logo, sayfa linkleri ve 100px yükseklikte modern header tasarımı sunar. 6 farklı projede kullanılır: mobil ajans, üretim, sağlık, medya, inşaat ve profesyonel hizmet firmalarında. Sticky header, hover efektleri ve responsive mobil menü geçişi içerir.",
@@ -27,7 +30,12 @@
         "bgcolor": "#62b8c7",
         "color": "#000",
         "img": "",
-        "imgwidth": "250px"
+        "imgwidth": "250px",
+        "stil": "",
+        "showlang": true,
+        "showsocial": true,
+        "social": [],
+        "langcolor": ""
       },
       "data": [],
       "id": "c2lkg1",
@@ -42,7 +50,8 @@
       "local": "header",
       "category": "slider",
       "desing": {
-        "delay": 3000
+        "delay": 3000,
+        "margin": "0px 0 0 0"
       },
       "data": [
         {
@@ -110,7 +119,18 @@
         "bgcolor": "#62b8c7",
         "fontcolor": "#000",
         "margintop": "20",
-        "marginbotton": "20"
+        "marginbotton": "20",
+        "stil": "",
+        "description": {
+          "tr": "Yılların deneyimi ve uzman kadromuzla kurumsal çözümler sunuyoruz. Kalite, güven ve sürdürülebilir büyüme odaklı çalışıyoruz.",
+          "en": "With years of experience and an expert team we deliver corporate solutions focused on quality, trust and sustainable growth.",
+          "ar": "نقدم حلولاً مؤسسية بخبرة سنوات وفريق متخصص. نعمل بتركيز على الجودة والثقة والنمو المستدام."
+        },
+        "title": {
+          "tr": "Kurumsal",
+          "en": "Corporate",
+          "ar": "مؤسسي"
+        }
       },
       "id": "k82tzv",
       "description": "Kurumsal tanıtım ve hakkımızda modülü. Firma tanıtımı, vizyon, misyon metinlerini görsel ile birlikte sunar. 15 farklı projede kullanılır: lojistik, üretim, sağlık, kurumsal, restoran, ajans ve inşaat sektörlerinde. İki kolonlu responsive tasarım ve icon desteği içerir.",
@@ -129,7 +149,58 @@
         "opacity": "0.5",
         "font-size": "32",
         "backgroundcolor": "#62b8c7",
-        "menu-active": "#000"
+        "menu-active": "#000",
+        "stil": "",
+        "activetext": "#fff",
+        "textcolor": "#fff",
+        "bgcolor": "#ffffff",
+        "border_radius": "8px",
+        "card_shadow": "0 10px 28px rgba(0, 0, 0, 0.08)",
+        "color": "#111111",
+        "colortitle": "#111111",
+        "coloractive": "#000000",
+        "ui": {
+          "tr": {
+            "home": "Anasayfa",
+            "products": "Ürünler",
+            "dimensions": "Ölçüler",
+            "dimNote": "Standart üretim referansıdır; proje bazında özelleştirilebilir.",
+            "quote": "Teklif Al",
+            "whatsapp": "WhatsApp",
+            "prev": "Önceki",
+            "next": "Sonraki"
+          },
+          "en": {
+            "home": "Home",
+            "products": "Products",
+            "dimensions": "Dimensions",
+            "dimNote": "Standard production reference; customizable per project.",
+            "quote": "Get Quote",
+            "whatsapp": "WhatsApp",
+            "prev": "Previous",
+            "next": "Next"
+          },
+          "ar": {
+            "home": "الرئيسية",
+            "products": "المنتجات",
+            "dimensions": "الأبعاد",
+            "dimNote": "مرجع إنتاج قياسي؛ قابل للتخصيص حسب المشروع.",
+            "quote": "عرض سعر",
+            "whatsapp": "واتساب",
+            "prev": "السابق",
+            "next": "التالي"
+          }
+        },
+        "noTitle": {
+          "tr": "Başlık Yok",
+          "en": "No title",
+          "ar": "بدون عنوان"
+        },
+        "productNavAria": {
+          "tr": "Ürün navigasyonu",
+          "en": "Product navigation",
+          "ar": "تنقل المنتج"
+        }
       },
       "description": "Kompakt sayfa başlık ve hero banner modülü. Küçük font boyutu ile modern minimalist tasarım sunar. 7 farklı projede kullanılır: ajans, mobil uygulamalar, kargo, kurumsal, ambalaj, inşaat ve sağlık sektörlerinde. Kurumsal sayfalara özel kategori sistemi, aktif menü renklendirme ve responsive header yapısı içerir.",
       "version": "1.0.0",
@@ -312,7 +383,9 @@
         "name": {
           "tr": "Bize Ulaşın"
         },
-        "margin": "30px 0px 30px 0px"
+        "margin": "30px 0px 30px 0px",
+        "stil": "",
+        "linkcolor": "#1B3A6B"
       },
       "data": [
         {
@@ -347,11 +420,36 @@
         "font-size": "32",
         "backgroundcolor": "#62b8c7",
         "menu-active": "#000",
-        "category": "kurumsal"
+        "category": "kurumsal",
+        "textcolor": "#ffffff",
+        "activetext": "#ffffff"
       },
       "description": "",
       "version": "1.0.0",
       "icon": "web"
+    },
+    {
+      "name": "Page Desing 2",
+      "desing": {
+        "height": "100",
+        "opacity": "0.5",
+        "font-size": "50",
+        "backgroundcolor": "#000",
+        "textcolor": "#fff",
+        "category": "page"
+      },
+      "category": "page",
+      "description": "Page Desing 2 modülü. 2 farklı web projesinde kullanılmaktadır. İçerik sunumu ve görsel düzenleme için tasarlanmıştır.",
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "7fi5oe",
+      "path": "page-text",
+      "local": "body",
+      "data": [],
+      "index": 8
     }
   ]
 }
